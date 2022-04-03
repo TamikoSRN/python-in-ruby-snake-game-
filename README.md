@@ -11,6 +11,6 @@
 
 ## 2. Once you have Ruby in your device, you have to install the gem "ruby2d" (gems are packages for Ruby, just like the npm for JS, or the pyp for Python), link to their website: https://www.ruby2d.com/learn/get-started/, or just run the following code in you terminal: *gem install ruby2d*. With this dependency you will be able to emulate the desktop app where you're going to test the game (with this dependency you can also create this kind of small apps in ruby, feel free to check it out later).
 
-## 3. Just open the project folder with your terminal and run the following command: *ruby python.rb*. It should open a desktop app window and the game will start! 
+## 3. Just open the project folder inside your terminal and run the following command: *ruby python.rb* to execute the code and start running the app. (It should open a desktop app window and the game will start!)
 
 ### I hope you enjoy it and happy gaming!
